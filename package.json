@@ -1,0 +1,22 @@
+{
+    "name": "unseelie",
+    "displayName": "unseelie",
+    "description": "A dark theme for softcute fairies",
+    "version": "0.0.1",
+    "publisher": "surinna",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Unseelie",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Unseelie-color-theme.json"
+            }
+        ]
+    }
+}
